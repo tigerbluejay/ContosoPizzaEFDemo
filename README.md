@@ -1,1 +1,3 @@
-"# ContosoPizzaEFDemo" 
+# Contoso Pizza EF Demo
+
+This demo project showcases how to use Entity Framework Core to build a simple pizza ordering application with full CRUD (Create, Read, Update, Delete) functionality. Starting from code, the project demonstrates how to scaffold and manage a database using migrations. It includes a basic domain model representing pizza orders and uses LINQ queries to interact with the database. The goal is to help developers understand how to set up and use EF Core in a console application, with clear, concise examples that reflect real-world database operations. This project is ideal for beginners learning about EF Core and how to map code-first models to a relational database.
